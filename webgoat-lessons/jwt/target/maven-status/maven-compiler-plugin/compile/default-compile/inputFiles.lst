@@ -1,0 +1,7 @@
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/plugin/JWTSecretKeyEndpoint.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/plugin/JWTRefreshEndpoint.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/plugin/JWT.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/plugin/JWTVotesEndpoint.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/plugin/votes/Views.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/plugin/JWTFinalEndpoint.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/plugin/votes/Vote.java

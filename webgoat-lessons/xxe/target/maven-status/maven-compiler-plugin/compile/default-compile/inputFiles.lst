@@ -1,0 +1,9 @@
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/xxe/src/main/java/org/owasp/webgoat/plugin/Ping.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/xxe/src/main/java/org/owasp/webgoat/plugin/BlindSendFileAssignment.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/xxe/src/main/java/org/owasp/webgoat/plugin/SimpleXXE.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/xxe/src/main/java/org/owasp/webgoat/plugin/User.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/xxe/src/main/java/org/owasp/webgoat/plugin/XXE.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/xxe/src/main/java/org/owasp/webgoat/plugin/ContentTypeAssignment.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/xxe/src/main/java/org/owasp/webgoat/plugin/CommentsEndpoint.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/xxe/src/main/java/org/owasp/webgoat/plugin/Comments.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/xxe/src/main/java/org/owasp/webgoat/plugin/Comment.java

@@ -1,0 +1,6 @@
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/password-reset/src/main/java/org/owasp/webgoat/plugin/QuestionsAssignment.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/password-reset/src/main/java/org/owasp/webgoat/plugin/ResetLinkAssignment.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/password-reset/src/main/java/org/owasp/webgoat/plugin/resetlink/PasswordChangeForm.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/password-reset/src/main/java/org/owasp/webgoat/plugin/PasswordResetEmail.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/password-reset/src/main/java/org/owasp/webgoat/plugin/PasswordReset.java
+/Users/mbrad/Demo/WebGoat/webgoat-lessons/password-reset/src/main/java/org/owasp/webgoat/plugin/SimpleMailAssignment.java
